@@ -38,8 +38,3 @@ while (continuar)
 
 }
 //proxima linha
-
-
-
-antony.txt
-Exibindo antony.txt.
