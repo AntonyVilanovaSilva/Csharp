@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1+TNMU9f9e3httoAtS+mAFE+s3cldkoyan8f2l8D1IlAxDsMNiYglyi7gptZr4VXPb3r4FPzqRi7vtLQuXOGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\android\\Documents\\GitHub\\Csharp\\Tipos de variaveis\\Tipos de Variaveis\\Tipos de Variaveis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\android\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
