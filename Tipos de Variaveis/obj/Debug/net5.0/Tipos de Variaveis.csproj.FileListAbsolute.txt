@@ -1,0 +1,16 @@
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\bin\Debug\net5.0\Tipos de Variaveis.exe
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\bin\Debug\net5.0\Tipos de Variaveis.deps.json
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\bin\Debug\net5.0\Tipos de Variaveis.runtimeconfig.json
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\bin\Debug\net5.0\Tipos de Variaveis.runtimeconfig.dev.json
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\bin\Debug\net5.0\Tipos de Variaveis.dll
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\bin\Debug\net5.0\ref\Tipos de Variaveis.dll
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\bin\Debug\net5.0\Tipos de Variaveis.pdb
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\obj\Debug\net5.0\Tipos de Variaveis.csproj.AssemblyReference.cache
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\obj\Debug\net5.0\Tipos de Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\obj\Debug\net5.0\Tipos de Variaveis.AssemblyInfoInputs.cache
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\obj\Debug\net5.0\Tipos de Variaveis.AssemblyInfo.cs
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\obj\Debug\net5.0\Tipos de Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\obj\Debug\net5.0\Tipos de Variaveis.dll
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\obj\Debug\net5.0\ref\Tipos de Variaveis.dll
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\obj\Debug\net5.0\Tipos de Variaveis.pdb
+C:\Users\android\Documents\GitHub\Csharp\Tipos de variaveis\Tipos de Variaveis\obj\Debug\net5.0\Tipos de Variaveis.genruntimeconfig.cache
