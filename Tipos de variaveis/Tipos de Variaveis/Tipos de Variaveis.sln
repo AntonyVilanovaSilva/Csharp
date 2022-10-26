@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipos de Variaveis", "Tipos de Variaveis.csproj", "{415AE21D-6260-4970-8E71-6F984C5541E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tipos de Variaveis", "Tipos de Variaveis.csproj", "{415AE21D-6260-4970-8E71-6F984C5541E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoByteInt", "..\TipoByteInt\TipoByteInt.csproj", "{475CCA04-6C88-401D-83A7-FF3B8C4FD62B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{415AE21D-6260-4970-8E71-6F984C5541E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{415AE21D-6260-4970-8E71-6F984C5541E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{415AE21D-6260-4970-8E71-6F984C5541E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475CCA04-6C88-401D-83A7-FF3B8C4FD62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475CCA04-6C88-401D-83A7-FF3B8C4FD62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475CCA04-6C88-401D-83A7-FF3B8C4FD62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475CCA04-6C88-401D-83A7-FF3B8C4FD62B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
